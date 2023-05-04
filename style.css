@@ -1,0 +1,44 @@
+#quadro{
+    width: 1800px;
+    text-align: center;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 5px solid black;
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titulo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    
+}
+
+#subtitulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#clique{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 2px;
+    border-color: white;
+}
+
+body{
+    background-color: rgb(92, 63, 194);
+}
+
+img{
+    width: 1500px;
+    margin-left: 150px  ;
+}
+
+
+img{
+    width: 1500px;
+    margin-left: 150px  ;
+}   
